@@ -1,0 +1,4 @@
+header nav {overflow: hidden;}
+header nav ul li {display: inline;}
+header nav ul li a {float:left; padding: 5px 10px;}
+header nav ul li a.current {color:$grey;}

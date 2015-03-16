@@ -1,0 +1,1 @@
+http://weblogs.asp.net/dwahlin/using-an-angularjs-factory-to-interact-with-a-restful-service

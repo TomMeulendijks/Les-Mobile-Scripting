@@ -1,0 +1,42 @@
+/* line 1, ../sass/components/_menu.scss */
+header nav {
+  overflow: hidden;
+}
+
+/* line 2, ../sass/components/_menu.scss */
+header nav ul li {
+  display: inline;
+}
+
+/* line 3, ../sass/components/_menu.scss */
+header nav ul li a {
+  float: left;
+  padding: 5px 10px;
+}
+
+/* line 4, ../sass/components/_menu.scss */
+header nav ul li a.current {
+  color: #ccc;
+}
+
+/* line 4, ../sass/main.scss */
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+/* line 5, ../sass/main.scss */
+body {
+  color: #444;
+  font-family: "Helvetica";
+}
+
+/* line 6, ../sass/main.scss */
+a:link, a:visited {
+  color: #649cc7;
+}
+
+/* line 8, ../sass/main.scss */
+#newsItems li {
+  margin-bottom: 24px;
+}
